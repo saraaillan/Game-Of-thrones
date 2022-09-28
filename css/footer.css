@@ -1,0 +1,20 @@
+.footer{
+    text-align: center;
+    background-image: url(/assets/imagenes/fondo1.jpg);
+    
+    padding: 20px;
+    
+}
+
+.pie__footer{
+    font-size: 1.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    padding: 20px;
+    margin-left: 2200x;
+
+}
+
+.pie__footer:hover{
+    color: rgba(28, 66, 23, 0.72);
+}
